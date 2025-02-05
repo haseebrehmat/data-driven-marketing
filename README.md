@@ -23,8 +23,6 @@ root/
 ├── entrypoint.sh                  # Entrypoint script for Airflow containers
 ├── requirements.txt               # Python dependencies for the project
 ├── README.md                      # This file
-├── ASSUMPTIONS.md                 # Assumptions made during the project
-└── DESIGN_DECISIONS.md            # Design decisions and rationale
 ```
 
 ---
