@@ -1,0 +1,4 @@
+
+logs/
+postgres-data/
+*/__pycache__/*
