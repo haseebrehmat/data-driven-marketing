@@ -9,7 +9,7 @@ This project implements a **data pipeline** using **Apache Airflow** to extract 
 
 ## **Directory Structure**
 ```
-your-airflow-project/
+root/
 ├── dags/
 │   └── etl_pipeline.py            # Main Airflow DAG for the ETL pipeline
 ├── scripts/
